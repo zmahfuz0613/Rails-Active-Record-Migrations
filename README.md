@@ -2,7 +2,7 @@
  We just learned about Rails Model migrations and validations. Let's get some more practice on what we covered by adding onto the `models_example` app we just built during the lesson. You can follow along with the lesson plan to complete the steps below.
  
  
-1.  Create a `Car` model that has `make`, `model`, and `year`, `moonroof`, `dealership` fields. Remember to designate the correct data type for each!
+1.  Create a `Car` model that has `make`, `model`, `year`, `moonroof`, `dealership` fields. Remember to designate the correct data type for each!
 
 2. Run the command that will update our 	`schema.rb` and add the new model to out database.
 
