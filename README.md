@@ -4,7 +4,7 @@
  
 1.  Create a `Car` model that has `make`, `model`, `year`, `moonroof`, `dealership` fields. Remember to designate the correct data type for each!
 
-2. Run the command that will update our 	`schema.rb` and add the new model to out database.
+2. Run the command that will update our 	`schema.rb` and add the new model to our database.
 
 3. Oops, we forgot to add a `color` field to `Car`. Go ahead and generate a migration to add that field to our schema.
 
