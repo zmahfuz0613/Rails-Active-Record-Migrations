@@ -1,4 +1,4 @@
-# Rails Active Record Migrations + Validations
+# Rails Active Record Migrations + Validations Exercise
  We just learned about Rails Model migrations and validations. Let's get some more practice on what we covered by adding onto the `models_example` app we just built during the lesson. You can follow along with the lesson plan to complete the steps below.
  
  
