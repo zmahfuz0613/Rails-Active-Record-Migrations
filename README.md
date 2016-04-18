@@ -24,7 +24,7 @@
 
 ###BONUS
 
-Set up a relationship between `User` and `Car` where a car `belong_to` a User and a User `has_many` cars. What steps are required?
+Set up a relationship between `User` and `Car` where a car `belongs_to` a User and a User `has_many` cars. What steps are required?
 
 
  
