@@ -22,7 +22,7 @@
 
 10. Delete the 3rd `Car` in your database.
 
-###BONUS
+### BONUS
 
 Set up a relationship between `User` and `Car` where a car `belongs_to` a User and a User `has_many` cars. What steps are required?
 
