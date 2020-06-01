@@ -1,10 +1,19 @@
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) SOFTWARE ENGINEERING IMMERSIVE
+
+## Setup
+
+ - Fork and clone this repo
+ - `cd` into the repo
+ - run `rails new . -G --api --database=postgresql`
+ - `rails db:create`
+
 # Rails Active Record Migrations + Validations Exercise
- We just learned about Rails Model migrations and validations. Let's get some more practice on what we covered by adding onto the `models_example` app we just built during the lesson. You can follow along with the lesson plan to complete the steps below.
+ We just learned about Rails Model migrations and validations. Let's get some more practice on what we covered. We will be generating migrations/models to create our database. We will also be adding to our models to provide validations.
  
- 
+
 1.  Create a `Car` model that has `make`, `model`, `year`, `moonroof`, `dealership` fields. Remember to designate the correct data type for each!
 
-2. Run the command that will update our 	`schema.rb` and add the new model to our database.
+2. Run the command that will update our	`schema.rb` and add the new model to our database.
 
 3. Oops, we forgot to add a `color` field to `Car`. Go ahead and generate a migration to add that field to our schema.
 
@@ -15,12 +24,6 @@
 6. Add a validation that `year` contains 4 digits and provide an error message if the year is too short.
 
 7. Generate a migration that will rename the `moonroof` field to `sunroof`.
-
-8. Enter `rails console` and add 4 cars to your database.
-
-9. Update the color of the first `Car` in your database.
-
-10. Delete the 3rd `Car` in your database.
 
 ### BONUS
 
